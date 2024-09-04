@@ -1,7 +1,7 @@
 <tv generator-info-name="none" generator-info-url="none">
 <channel id="La Liga">
 <display-name lang="en">La Liga</display-name>
-<icon src=""/>
+<icon src="https://archive.org/download/Liverpool_202309/La Liga.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20271237215959 +0000" channel="La Liga">
 <title lang="en">Spanish La Liga</title>
