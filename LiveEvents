@@ -1,0 +1,9 @@
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="La Liga">
+<display-name lang="en">La Liga</display-name>
+<icon src=""/>
+</channel>
+<programme start="20240701000000 +0000" stop="20271237215959 +0000" channel="Arsenal">
+<title lang="en">La Liga</title>
+<desc lang="en">La Liga</desc>
+</programme>
