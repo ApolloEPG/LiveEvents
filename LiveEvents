@@ -19,3 +19,23 @@
 <title lang="en">Spanish La Liga</title>
 <desc lang="en">Enjoy the passion and excitement. LaLiga shows every available LIVE match from Spain's top-flight tier LaLiga Santander</desc>
 </programme>
+<channel id="Serie A">
+<display-name lang="en">Serie A</display-name>
+<icon src="https://archive.org/download/Serie A_202309/Serie A.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20270914215959 +0000" channel="Serie A">
+<title lang="en">Italian Serie A</title>
+<desc lang="en">Enjoy the passion and excitement. Serie A shows every available LIVE match from Italy's top-flight tier Serie A </desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20270922215959 +0000" channel="Serie A">
+<title lang="en">Italian Serie A</title>
+<desc lang="en">Enjoy the passion and excitement. Serie A shows every available LIVE match from Italy's top-flight tier Serie A </desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20270928215959 +0000" channel="Serie A">
+<title lang="en">Italian Serie A</title>
+<desc lang="en">Enjoy the passion and excitement. Serie A shows every available LIVE match from Italy's top-flight tier Serie A </desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20270928215959 +0000" channel="Serie A">
+<title lang="en">Italian Serie A</title>
+<desc lang="en">Enjoy the passion and excitement. Serie A shows every available LIVE match from Italy's top-flight tier Serie A </desc>
+</programme>
