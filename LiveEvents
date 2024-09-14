@@ -39,3 +39,63 @@
 <title lang="en">Italian Serie A</title>
 <desc lang="en">Enjoy the passion and excitement. Serie A shows every available LIVE match from Italy's top-flight tier Serie A </desc>
 </programme>
+<channel id="Setanta Sports 01">
+<display-name lang="en">Setanta Sports</display-name>
+<icon src="https://archive.org/download/Setanta Sports_202309/Setanta Sports.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20270914215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 01</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20270922215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 02</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20270928215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 03</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20270928215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 04</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<channel id="Setanta Sports 02">
+<display-name lang="en">Setanta Sports</display-name>
+<icon src="https://archive.org/download/Setanta Sports_202309/Setanta Sports.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20270914215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 02</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20270922215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 02</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20270928215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 02</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20270928215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 02</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<channel id="Setanta Sports 03">
+<display-name lang="en">Setanta Sports</display-name>
+<icon src="https://archive.org/download/Setanta Sports_202309/Setanta Sports.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20270914215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 03</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20270922215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 03</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20270928215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 03</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20270928215959 +0000" channel="Setanta Sports">
+<title lang="en">Setanta Sports 03</title>
+<desc lang="en">This Section Shows A Variety Of Sports Including English Premier League - Live Event Channel Only</desc>
+</programme>
