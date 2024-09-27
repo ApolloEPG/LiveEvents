@@ -39,6 +39,86 @@
 <title lang="en">Italian Serie A</title>
 <desc lang="en">Enjoy the passion and excitement. Serie A shows every available LIVE match from Italy's top-flight tier Serie A </desc>
 </programme>
+<channel id="TNT Sports Box Office">
+<display-name lang="en">TNT Sports Box Office</display-name>
+<icon src="https://archive.org/download/TNT Sports Box Office_202309/TNT Sports Box Office.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20270914215959 +0000" channel="TNT Sports Box Office">
+<title lang="en">Italian TNT Sports Box Office</title>
+<desc lang="en">TNT Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20270922215959 +0000" channel="TNT Sports Box Office">
+<title lang="en">Italian TNT Sports Box Office</title>
+<desc lang="en">TNT Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20270928215959 +0000" channel="TNT Sports Box Office">
+<title lang="en">Italian TNT Sports Box Office</title>
+<desc lang="en">TNT Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20270928215959 +0000" channel="TNT Sports Box Office">
+<title lang="en">Italian TNT Sports Box Office</title>
+<desc lang="en">TNT Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<channel id="Sky Sports Box Office">
+<display-name lang="en">Sky Sports Box Office</display-name>
+<icon src="https://archive.org/download/Sky Sports Box Office_202309/Sky Sports Box Office.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20270914215959 +0000" channel="Sky Sports Box Office">
+<title lang="en">Italian Sky Sports Box Office</title>
+<desc lang="en">Sky Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20270922215959 +0000" channel="Sky Sports Box Office">
+<title lang="en">Italian Sky Sports Box Office</title>
+<desc lang="en">Sky Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20270928215959 +0000" channel="Sky Sports Box Office">
+<title lang="en">Italian Sky Sports Box Office</title>
+<desc lang="en">Sky Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20270928215959 +0000" channel="Sky Sports Box Office">
+<title lang="en">Italian Sky Sports Box Office</title>
+<desc lang="en">Sky Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<channel id="DAZN Box Office">
+<display-name lang="en">DAZN Box Office</display-name>
+<icon src="https://archive.org/download/DAZN Box Office_202309/DAZN Box Office.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20270914215959 +0000" channel="DAZN Box Office">
+<title lang="en">Italian DAZN Box Office</title>
+<desc lang="en">DAZN Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20270922215959 +0000" channel="DAZN Box Office">
+<title lang="en">Italian DAZN Box Office</title>
+<desc lang="en">DAZN Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20270928215959 +0000" channel="DAZN Box Office">
+<title lang="en">Italian DAZN Box Office</title>
+<desc lang="en">DAZN Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20270928215959 +0000" channel="DAZN Box Office">
+<title lang="en">Italian DAZN Box Office</title>
+<desc lang="en">DAZN Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<channel id="Sky + TNT Sports Box Office">
+<display-name lang="en">Sky + TNT Sports Box Office</display-name>
+<icon src="https://archive.org/download/Sky + TNT Sports Box Office_202309/Sky + TNT Sports Box Office.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20270914215959 +0000" channel="Sky + TNT Sports Box Office">
+<title lang="en">Italian Sky + TNT Sports Box Office</title>
+<desc lang="en">Sky + TNT Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20270922215959 +0000" channel="Sky + TNT Sports Box Office">
+<title lang="en">Italian Sky + TNT Sports Box Office</title>
+<desc lang="en">Sky + TNT Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20270928215959 +0000" channel="Sky + TNT Sports Box Office">
+<title lang="en">Italian Sky + TNT Sports Box Office</title>
+<desc lang="en">Sky + TNT Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20270928215959 +0000" channel="Sky + TNT Sports Box Office">
+<title lang="en">Italian Sky + TNT Sports Box Office</title>
+<desc lang="en">Sky + TNT Sports Box Office - This Live Event Box Office Channel Will Show The Biggest Pay Per View Events</desc>
+</programme>
 <channel id="Setanta Sports 01">
 <display-name lang="en">Setanta Sports</display-name>
 <icon src="https://archive.org/download/Setanta Sports_202309/Setanta Sports.jpg"/>
